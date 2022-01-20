@@ -1,0 +1,49 @@
+body{
+	width:980;
+}
+
+.wrap{
+	display:flex;
+	justify-content:space-evenly;
+	width:95%;
+	
+}
+
+.box{
+	width:250px;
+	height:160px;
+	text-align:center;
+	border:solid;
+	background-color:lightgrey;
+	padding:3px;
+	
+}
+
+a{
+	background-image: linear-gradient(teal, orange);
+   	color: white;
+   	text-transform: capitalize;
+   	font-family: sans-serif;
+   	font-weight: bold;
+   	margin-top:10px;
+	
+}
+
+input{
+	
+    background-image: linear-gradient(teal, orange);
+   	color: white;
+   	text-transform: capitalize;
+   	font-family: sans-serif;
+   	font-weight: bold;
+   	
+}
+
+h1{
+	
+}
+
+.results{
+	width:92%;
+	height:200px;
+}
